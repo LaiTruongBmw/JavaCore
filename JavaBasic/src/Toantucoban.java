@@ -6,5 +6,7 @@ public class Toantucoban {
 		
 		int s = a/b;
 		System.out.println(s);
+		System.out.println(b++);
+		System.out.println(++b);
 	}
 }
